@@ -30,3 +30,33 @@ output array
 
 STOP
 
+### Pseudocode EnumerableCollect
+
+START
+STOP
+
+### Pseudocode EnumerableReduce
+
+START
+STOP
+
+### Pseudocode 
+
+START
+STOP
+
+### Pseudocode 
+
+START
+STOP
+
+### Pseudocode 
+
+START
+STOP
+
+### Pseudocode 
+
+START
+STOP
+
